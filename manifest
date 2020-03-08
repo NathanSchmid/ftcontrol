@@ -1,0 +1,11 @@
+[app]
+name: Test ftcontorl
+category: Robotics
+author: Nathan Schmid
+icon: icon.png
+desc: test for ftcontrol
+exec: test.py
+managed: yes
+uuid: 6fa3c65e-16fc-4bf6-9a03-08d532e8f850
+version: 1.0
+firmware: 0.9
